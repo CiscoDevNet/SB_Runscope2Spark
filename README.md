@@ -5,7 +5,7 @@ Forwards Alert requests from RunScope to Spark
 
 This application is a simple Runscope Alert / [Cisco Spark](https://developer.ciscospark.com/) Bot App built in Python [Flask](http://flask.pocoo.org/). This app is meant to be deployed to AWS Lambda to be served serverlessly using the [Zappa Framework](https://github.com/Miserlou/Zappa)
 
-##Pre-Requirements
+## Pre-Requirements
 
 * [git](https://git-scm.com/downloads) on your computer
 * [Python 3.6+](https://www.python.org/downloads/)
